@@ -1,5 +1,5 @@
 # Competitive Programming
-![solutions](https://img.shields.io/badge/solutions-48-blue)
+![solutions](https://img.shields.io/badge/solutions-70-blue)
 
 This repository includes my solutions to a number of competitive programming problems across a range of websites.
 
